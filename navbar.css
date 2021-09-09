@@ -1,0 +1,9 @@
+.nav-enlace{
+    background-color: magenta;
+    color: rgb(126, 245, 233);
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background-color: orchid;
+}    
